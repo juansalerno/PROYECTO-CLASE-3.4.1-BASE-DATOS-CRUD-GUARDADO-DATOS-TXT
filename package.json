@@ -1,0 +1,15 @@
+{
+  "name": "proyecto-clase-3.4.1-base-datos-crud-txt-persistente",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Salerno",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^12.6.8",
+    "readline-sync": "^1.4.10"
+  }
+}
